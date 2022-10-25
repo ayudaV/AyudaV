@@ -37,6 +37,7 @@ Hi! My name is André Yuhji Terada
   <img align="center" alt="SQLITE"    height="30" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   
   <img align="center" alt="Unity"    height="30" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+  
   ![Snake animation](https://github.com/ayudav/ayudav/blob/output/github-contribution-grid-snake.svg)
 
 </div>
